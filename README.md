@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jahid</h1>
-<p>A passionate computer engineer and MEVN developer from India.</p>
+<p>A passionate software engineer and MEVN developer from India.</p>
 
 <div align="left" inline>
 <span align="left"> <a href="https://twitter.com/jahiddev" target="blank"><img src="https://img.shields.io/twitter/follow/jahiddev?logo=twitter&style=for-the-badge" alt="jahiddev" /></a> </span>
